@@ -1,2 +1,1 @@
-# drone.3d.simulator
-3d drone simulator  simulator
+compile text files to compact binary files
